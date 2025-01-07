@@ -16,29 +16,23 @@ Online food delivery continues to evolve, driven by technological advancements a
 
 Technical Stack: 
 Languages: C++
-Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
+Algorithms: Dijkstra’s, A*, KMP, Chain Hashing,Sorting, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
 
 Impact:
-1. Revenue Generation:
-Tourism contributes significantly to a country's GDP through spending on accommodation, food, transportation, entertainment, and shopping.
+1.Online portal for registering hotels and users:
+An Online portal for registering hotels and users is a centralized platform designed to connect accommodation providers (hotels, resorts, guest houses, etc.) with travelers or customers. It serves as a marketplace where hotels can list their properties, and users can search, compare, book, and review them.
 
+2. List of all the food varieties:
+ The list of food varieties is extensive and spans across global cuisines,dietary preferences, and preparation methods. Each region and culture contributes its unique dishes and ingredients to this rich culinary landscape. 
 
-2. Employment Creation:
-The tourism industry generates jobs in various sectors such as hospitality, transportation, travel agencies, and local crafts.
+3.Efficient delivery and time management:
+Efficient Order Management Many modern food delivery apps provide order tracking features, allowing customers to monitor the status and location of their meals in real time.
+efficient delivery and time management are crucial in the food delivery industry to ensure customer satisfaction,maintain food quality, and optimize operations.
 
-
-3. Foreign Exchange Earnings:
-International tourists bring foreign currency, which strengthens a country's foreign reserves.
-
-
-4. Infrastructure Development:
-Tourism often drives investment in infrastructure like roads, airports, and public amenities, benefiting local communities.
-
-
-5. Cultural Exchange and Preservation:
-Tourism promotes cultural exchange and can incentivize the preservation of historical sites and
-
+4. Feedback system for hotels and users :
+ Feedback system for hotels and users are essential for maintaining transparancy ,imorving sevices,and fostering trust on a platform.
+ For hotels, it includes star ratings, detailed review categories (e.g., cleanliness, service, amenities), written reviews, and the option for users to upload photos or tag specific issues. Hotels can respond to reviews to address compliments or resolve complaints. For users, the system allows hotels to rate guest behavior, adherence to rules, and room condition post-checkout. Guests can receive written feedback, helping them improve future interactions. 
 ## 🚀 Skills  
 
 - Proficient in C++. 
@@ -62,10 +56,10 @@ Tourism promotes cultural exchange and can incentivize the preservation of histo
 ### 📋 Details:
 
 - Course Name: Algorithms Lab 
-- Course Code: 24ECAC203  
+- Course Code: 24ECSP205 
 - Name: Pooja K Banakare.
 - SRN: 02FE23BCS148
-- Course Instructor:Prof. Vaishali Y Parab
+- Course Instructor: Prof. Vaishali Y Parab
 - University:KLE TECHNOLOGICAL UNIVERSITY
   - Topic: Online food delivery
 ---
