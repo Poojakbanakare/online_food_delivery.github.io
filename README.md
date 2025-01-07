@@ -20,6 +20,7 @@ Algorithms: Dijkstra’s, A*, KMP, Chain Hashing,Sorting, Graph Traversal (DFS/B
 Tools: Graphs, DAA Optimization Techniques
 
 Impact:
+
 1.Online portal for registering hotels and users:
 An Online portal for registering hotels and users is a centralized platform designed to connect accommodation providers (hotels, resorts, guest houses, etc.) with travelers or customers. It serves as a marketplace where hotels can list their properties, and users can search, compare, book, and review them.
 
@@ -32,7 +33,8 @@ efficient delivery and time management are crucial in the food delivery industry
 
 4. Feedback system for hotels and users :
  Feedback system for hotels and users are essential for maintaining transparancy ,imorving sevices,and fostering trust on a platform.
- For hotels, it includes star ratings, detailed review categories (e.g., cleanliness, service, amenities), written reviews, and the option for users to upload photos or tag specific issues. Hotels can respond to reviews to address compliments or resolve complaints. For users, the system allows hotels to rate guest behavior, adherence to rules, and room condition post-checkout. Guests can receive written feedback, helping them improve future interactions. 
+ For hotels, it includes star ratings, detailed review categories (e.g., cleanliness, service, amenities), written reviews, and the option for users to upload photos or tag specific issues. Hotels can respond to reviews to address compliments or resolve complaints. For users, the system allows hotels to rate guest behavior, adherence to rules, and room condition post-checkout. Guests can receive written feedback, helping them improve future interactions.
+
 ## 🚀 Skills  
 
 - Proficient in C++. 
